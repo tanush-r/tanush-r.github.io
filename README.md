@@ -1,30 +1,53 @@
-# Personal Portfolio Website  
+# Portfolio Website
 
-This portfolio is designed as a showcase of my skills, projects, and professional experience as a full-stack developer. Originally built for personal use, it has been open-sourced to help others learn and create their own personalized portfolios. Feel free to adapt and modify it to fit your style and professional branding.  
+Personal portfolio website showcasing machine learning, AI, and software engineering projects.
 
-## Features  
-- Interactive and responsive design built with modern front-end technologies.  
-- Showcases skills, projects, certifications, and professional experience.  
-- Integrates animations and 3D elements for an engaging user experience.  
+## Tech Stack
 
-## License and Attribution  
-This portfolio is open-source under the [MIT License](LICENSE).  
+- Vanilla HTML
+- Vanilla CSS
+- Vanilla JavaScript
 
-## Built With  
-- **React.js**: Component-based architecture for building a dynamic user interface.  
-- **TailwindCSS**: Utility-first CSS framework for rapid UI development.  
-- **Three.js**: 3D animations and graphics for an interactive portfolio experience.  
-- **Framer Motion**: Smooth animations and transitions.  
+## Built With
 
+This portfolio was built using the Antigravity design as a visual and structural test/reference.
 
-## Getting Started  
+## Hosting
 
-### Prerequisites  
-- Node.js `16.0.0` or higher.  
-- npm `9.0.0` or higher.  
+The website is hosted using GitHub Pages.
 
-### Installation  
-1. Clone this repository:  
-   ```bash  
-   git clone https://github.com/tanush-r/portfolio.git  
-   cd portfolio  
+## Features
+
+- Responsive modern UI
+- Smooth scrolling project carousel
+- GitHub project integration
+- Resume download support
+- Animated interactive sections
+
+## Run Locally
+
+Clone the repository:
+
+```bash
+git clone <your-repo-url>
+```
+
+Open `index.html` directly in the browser or use a local server.
+
+Example using Python:
+
+```bash
+python -m http.server
+```
+
+## Deployment
+
+Push the repository to GitHub and enable GitHub Pages from:
+
+`Settings → Pages → Deploy from branch`
+
+Select the `main` branch and root directory.
+
+## Author
+
+Tanush Rajkumar
